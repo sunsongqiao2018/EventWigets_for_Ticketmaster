@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+{% load bootstrap4 %}
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TicketMaster Event Search</title>
+
+{# Load CSS and JavaScript #}
+{% bootstrap_css %}
+{% bootstrap_javascript jquery='full' %}
+
+</head>
+<body>
+{#{% include 'MainPartialView.html' %}#}
+<h1>Here is Event search API</h1>
+<form name='searchForm' method="POST" >{% csrf_token %}
+        <div class="input-group mb-3">
+            {{ size_form }}
+            <div class="input-group-append">
+                <button type="submit" id="button-addon2">Search</button>
+            </div>
+        </div>
+    </form>
+    {% if events_data is not None %}
+        <table class="table table-dark">
+            <thead>
+                <tr>
+                    <th scope="col">Title</th>
+                </tr>
+            </thead>
+        {% for event in events_data %}
+            <tr>
+            <td><a href="./{{ event.event_id }}">{{ event.event_name }}</a></td>
+            </tr>
+        {% endfor %}
+        </table>
+    {% endif %}
+
+</body>
+</html>

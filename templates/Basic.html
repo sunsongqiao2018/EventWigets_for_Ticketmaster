@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>ForAll SearchAPI</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+            integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+            crossorigin="anonymous"></script>
+    <style>
+        .searchHolder {
+            display: block;
+            width: 50%;
+            margin: 5% auto;
+        }
+    </style>
+</head>
+<body>
+<h1>Welcome to my {{ main_name }} API</h1>
+<container class="searchHolder">
+    <form method="POST">{% csrf_token %}
+        <div class="input-group mb-3">
+            <label for="eventId">Event ID</label>
+            {{ form.name }}
+            <input type="text" id="Event_id" name="event_id" value="{{ current_value }}">
+            <div class="input-group-append">
+                <button type="submit" id="button-addon2">Search</button>
+            </div>
+        </div>
+    </form>
+</container>
+<ul>
+    {% for artist in artists_data %}
+        <li>{{ artist.artist_name }}</li>
+        <li>{{ artist.follower }}</li>
+        <li>{{ artist.artist_genre }}</li>
+    {% endfor %}
+</ul>
+</body>
+</html>

@@ -1,0 +1,11 @@
+<h1>Welcome to my {{ main_name }} API</h1>
+<container class="searchHolder">
+    <form method="POST">{% csrf_token %}
+        <div class="input-group mb-3">
+            {{ form.name }}
+            <div class="input-group-append">
+                <button type="submit" id="button-addon2">Search</button>
+            </div>
+        </div>
+    </form>
+</container>

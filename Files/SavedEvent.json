@@ -1,0 +1,481 @@
+{
+    "name": "P!nk: Beautiful Trauma World Tour",
+    "type": "event",
+    "id": "1AvZZ4aGkDdmJt1",
+    "test": false,
+    "url": "https://www.ticketmaster.ca/pnk-beautiful-trauma-world-tour-toronto-ontario-08-18-2019/event/1000549EC3BA6A4A",
+    "locale": "en-us",
+    "images": [
+        {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/1dd/d5e86d93-5e1a-49d9-b530-70fefc0f21dd_877061_RETINA_PORTRAIT_3_2.jpg",
+            "width": 640,
+            "height": 427,
+            "fallback": false
+        },
+        {
+            "ratio": "4_3",
+            "url": "https://s1.ticketm.net/dam/a/1dd/d5e86d93-5e1a-49d9-b530-70fefc0f21dd_877061_CUSTOM.jpg",
+            "width": 305,
+            "height": 225,
+            "fallback": false
+        },
+        {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/1dd/d5e86d93-5e1a-49d9-b530-70fefc0f21dd_877061_RETINA_PORTRAIT_16_9.jpg",
+            "width": 640,
+            "height": 360,
+            "fallback": false
+        },
+        {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/1dd/d5e86d93-5e1a-49d9-b530-70fefc0f21dd_877061_ARTIST_PAGE_3_2.jpg",
+            "width": 305,
+            "height": 203,
+            "fallback": false
+        },
+        {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/1dd/d5e86d93-5e1a-49d9-b530-70fefc0f21dd_877061_RETINA_LANDSCAPE_16_9.jpg",
+            "width": 1136,
+            "height": 639,
+            "fallback": false
+        },
+        {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/1dd/d5e86d93-5e1a-49d9-b530-70fefc0f21dd_877061_TABLET_LANDSCAPE_3_2.jpg",
+            "width": 1024,
+            "height": 683,
+            "fallback": false
+        },
+        {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/1dd/d5e86d93-5e1a-49d9-b530-70fefc0f21dd_877061_RECOMENDATION_16_9.jpg",
+            "width": 100,
+            "height": 56,
+            "fallback": false
+        },
+        {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/1dd/d5e86d93-5e1a-49d9-b530-70fefc0f21dd_877061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+            "width": 2048,
+            "height": 1152,
+            "fallback": false
+        },
+        {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/1dd/d5e86d93-5e1a-49d9-b530-70fefc0f21dd_877061_EVENT_DETAIL_PAGE_16_9.jpg",
+            "width": 205,
+            "height": 115,
+            "fallback": false
+        },
+        {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/1dd/d5e86d93-5e1a-49d9-b530-70fefc0f21dd_877061_TABLET_LANDSCAPE_16_9.jpg",
+            "width": 1024,
+            "height": 576,
+            "fallback": false
+        }
+    ],
+    "sales": {
+        "public": {
+            "startDateTime": "2018-05-11T14:00:00Z",
+            "startTBD": false,
+            "endDateTime": "2019-08-18T23:30:00Z"
+        },
+        "presales": [
+            {
+                "startDateTime": "2018-05-08T14:00:00Z",
+                "endDateTime": "2018-05-11T02:00:00Z",
+                "name": "Front Of The Line by American Express",
+                "description": "For Front Of The Line Tickets, purchase must be charged in full to an American Express Card. Subject to availability and to event and ticketing agent terms, conditions and fees. Please note: All American Express Cards are eligible for American Express Invites tickets including Cardmembers from other countries outside of Canada."
+            },
+            {
+                "startDateTime": "2018-05-10T14:00:00Z",
+                "endDateTime": "2018-05-11T02:00:00Z",
+                "name": "Live Nation Presale",
+                "description": "Not a Live Nation member? Sign up to receive Live Nation presale passwords",
+                "url": "http://bit.ly/GMW9Ni"
+            },
+            {
+                "startDateTime": "2018-05-10T14:00:00Z",
+                "endDateTime": "2018-05-11T02:00:00Z",
+                "name": "Live Nation Mobile App Presale",
+                "description": "Download the Live Nation iPhone App now to access Live Nation Mobile App Presales. Browse, search, and discover concerts for your favorite artists near you; get alerts on presales, onsales, and last minute tickets; and easily and quickly purchase tickets while in the app. Check out set lists on the go, check in with your friends, view your ticket info, seating charts, exclusive photos, videos and more.",
+                "url": "http://www.livenation.com/mobile"
+            },
+            {
+                "startDateTime": "2018-05-10T14:00:00Z",
+                "endDateTime": "2018-05-11T02:00:00Z",
+                "name": "Facebook Presale"
+            },
+            {
+                "startDateTime": "2018-05-08T14:00:00Z",
+                "endDateTime": "2018-05-11T02:00:00Z",
+                "name": "Verified Fan Presale"
+            },
+            {
+                "startDateTime": "2018-05-08T14:00:00Z",
+                "endDateTime": "2018-05-11T02:00:00Z",
+                "name": "ShredNet Presale"
+            },
+            {
+                "startDateTime": "2018-05-08T14:00:00Z",
+                "endDateTime": "2018-05-11T02:00:00Z",
+                "name": "VIP Package Presale"
+            },
+            {
+                "startDateTime": "2018-05-11T14:00:00Z",
+                "endDateTime": "2019-07-28T21:00:00Z",
+                "name": "VIP Package Public Onsale"
+            }
+        ]
+    },
+    "dates": {
+        "start": {
+            "localDate": "2019-08-18",
+            "localTime": "19:30:00",
+            "dateTime": "2019-08-18T23:30:00Z",
+            "dateTBD": false,
+            "dateTBA": false,
+            "timeTBA": false,
+            "noSpecificTime": false
+        },
+        "timezone": "America/New_York",
+        "status": {
+            "code": "rescheduled"
+        },
+        "spanMultipleDays": false
+    },
+    "classifications": [
+        {
+            "primary": true,
+            "segment": {
+                "id": "KZFzniwnSyZfZ7v7nJ",
+                "name": "Music"
+            },
+            "genre": {
+                "id": "KnvZfZ7vAeA",
+                "name": "Rock"
+            },
+            "subGenre": {
+                "id": "KZazBEonSMnZfZ7v6F1",
+                "name": "Pop"
+            },
+            "type": {
+                "id": "KZAyXgnZfZ7v7nI",
+                "name": "Undefined"
+            },
+            "subType": {
+                "id": "KZFzBErXgnZfZ7v7lJ",
+                "name": "Undefined"
+            },
+            "family": false
+        }
+    ],
+    "promoter": {
+        "id": "850",
+        "name": "LIVE NATION CANADA (LN)",
+        "description": "LIVE NATION CANADA (LN) / NTL / CAN"
+    },
+    "promoters": [
+        {
+            "id": "850",
+            "name": "LIVE NATION CANADA (LN)",
+            "description": "LIVE NATION CANADA (LN) / NTL / CAN"
+        }
+    ],
+    "pleaseNote": "Due to illness, this event has been rescheduled from May 13th to Sunday, August 18th. Tickets for the original date will be valid for the future date. Refunds are available at the point of purchase until May 31. As a security measure, NO RE-ENTRY IS PERMITTED after you have exited the Scotiabank Arena gates. NO BAG POLICY: Any purses or briefcases that are larger than 14\" x 14\" x 6\" will not be allowed into Scotiabank Arena. Prohibited bags include, but are not limited to the following: backpacks (of any size), oversized luggage and coolers. This policy also prohibits any hard-sided bags.",
+    "priceRanges": [
+        {
+            "type": "standard",
+            "currency": "CAD",
+            "min": 84.5,
+            "max": 349.99
+        }
+    ],
+    "seatmap": {
+        "staticUrl": "https://s1.ticketm.net/tmimages/venue/maps/tor/85633s.gif"
+    },
+    "ticketLimit": {
+        "info": "There is an overall 8 ticket limit for this event."
+    },
+    "_links": {
+        "self": {
+            "href": "/discovery/v2/events/1AvZZ4aGkDdmJt1?locale=en-us"
+        },
+        "attractions": [
+            {
+                "href": "/discovery/v2/attractions/K8vZ9171Jo7?locale=en-us"
+            }
+        ],
+        "venues": [
+            {
+                "href": "/discovery/v2/venues/KovZpZAFFE1A?locale=en-us"
+            }
+        ]
+    },
+    "_embedded": {
+        "venues": [
+            {
+                "name": "Scotiabank Arena",
+                "type": "venue",
+                "id": "KovZpZAFFE1A",
+                "test": false,
+                "url": "https://www.ticketmaster.ca/scotiabank-arena-tickets-toronto/venue/131157",
+                "locale": "en-us",
+                "aliases": [
+                    "air canada center",
+                    "air canada centre"
+                ],
+                "images": [
+                    {
+                        "ratio": "16_9",
+                        "url": "https://s1.ticketm.net/dbimages/21253v.jpg",
+                        "width": 205,
+                        "height": 115,
+                        "fallback": false
+                    }
+                ],
+                "postalCode": "M5J 2L2",
+                "timezone": "America/New_York",
+                "city": {
+                    "name": "Toronto"
+                },
+                "state": {
+                    "name": "Ontario",
+                    "stateCode": "ON"
+                },
+                "country": {
+                    "name": "Canada",
+                    "countryCode": "CA"
+                },
+                "address": {
+                    "line1": "50 Bay Street, Suite 500"
+                },
+                "location": {
+                    "longitude": "-79.3783234",
+                    "latitude": "43.6439254"
+                },
+                "markets": [
+                    {
+                        "name": " Hamilton & Area\"",
+                        "id": "102"
+                    }
+                ],
+                "dmas": [
+                    {
+                        "id": 501
+                    },
+                    {
+                        "id": 502
+                    },
+                    {
+                        "id": 503
+                    },
+                    {
+                        "id": 508
+                    },
+                    {
+                        "id": 509
+                    },
+                    {
+                        "id": 510
+                    },
+                    {
+                        "id": 511
+                    },
+                    {
+                        "id": 527
+                    }
+                ],
+                "social": {
+                    "twitter": {
+                        "handle": "@LIVEatACC"
+                    }
+                },
+                "boxOfficeInfo": {
+                    "phoneNumberDetail": "Ticketmaster - Non Sporting Events: 1-855-985-5000 Ticketmaster - Toronto Maple Leafs: 1-855-465-3237 (855-GO-LEAFS) Ticketmaster - Toronto Raptors: 1-855-727-8677 (855-RAPTORS) Ticketmaster - Toronto Rock: 1-855-665-7625 (855-NLL-ROCK)",
+                    "openHoursDetail": "OPEN MONDAY - SATURDAY: 10:00 A.M. - 6:00 P.M. CLOSED SUNDAY: EXCEPT ON EVENT DAYS WHERE WE WILL OPEN AT 12:00 P.M SUMMER HOURS (JUNE 17 TO SEPT 2) MONDAY TO SATURDAY: 12:00 pm to 5:00 pm. SUNDAYS AND HOLIDAYS: CLOSED (UNLESS THERE IS AN EVENT)",
+                    "acceptedPaymentDetail": "Cash, American Express, MasterCard, Visa",
+                    "willCallDetail": "Ticket Office Location: Located just inside the main entrance to the Arena. Note: Please arrive at ticket office early if picking up tickets. Customers must present the actual credit card used to place the order and photo ID."
+                },
+                "parkingDetail": "Public parking available on Queens Quay, Bay Street and surrounding area. For parking information call: Impark: (416) 369-1801 There are more than 13,000 public parking spaces within immediate walking distance of the arena. During events, underground parking is generally for suiteholders only. Parking is not allowed in the west plaza unless authorized. Fans requiring accessible parking are asked to call (416) 815-5982 in order to reserve a spot.",
+                "accessibleSeatingDetail": "Accessible Seating: The Scotiabank Arena is fully accessible through all gates. All accessible seating is available online or through your local Ticketmaster Charge-by-Phone or Ticket Centre. Patrons with accessible needs may also go directly to the Scotiabank Arena Ticket Office to purchase their tickets. Accessible Parking and Drop off: Fans requiring accessible parking at Scotiabank Arena are asked to call 416-815-5982 in order to reserve a spot (up to 4 weeks in advance). Fans who being dropped off by Wheel-Trans or private vehicles may do so on Bremner Boulevard on the west side of the building, nearest to Gate 5. For more information on accessing Scotiabank Arena, please contact Fan Services at the venue at (416)815-5982, Monday to Friday, 9:00 am to 5:00 pm. Assistive Listening Devices: Available for Leafs and Raptors games. Currently unavailable for concerts.",
+                "generalInfo": {
+                    "generalRule": "No Smoking is allowed in the Arena. Cameras & Video equipment are not permitted for events. Bags and Back Packs are NOT permitted. Alcohol is not permitted on any General Admission floor seating. No outside food or beverages permitted. SCOTIABANK ARENA ALCOHOL POLICIES ARE SUBJECT TO CHANGE ON AN EVENT BY EVENT BASIS",
+                    "childRule": "Children under 24 months of age do not require a ticket if seated on a lap (for concerts this is subject to change). Children 24 months and older do require a ticket."
+                },
+                "upcomingEvents": {
+                    "_total": 55,
+                    "ticketmaster": 55
+                },
+                "_links": {
+                    "self": {
+                        "href": "/discovery/v2/venues/KovZpZAFFE1A?locale=en-us"
+                    }
+                }
+            }
+        ],
+        "attractions": [
+            {
+                "name": "P!NK",
+                "type": "attraction",
+                "id": "K8vZ9171Jo7",
+                "test": false,
+                "url": "https://www.ticketmaster.ca/pnk-tickets/artist/718655",
+                "locale": "en-us",
+                "externalLinks": {
+                    "youtube": [
+                        {
+                            "url": "https://www.youtube.com/user/PinkVideoVault"
+                        },
+                        {
+                            "url": "https://www.youtube.com/user/PinkVEVO"
+                        }
+                    ],
+                    "twitter": [
+                        {
+                            "url": "https://twitter.com/Pink"
+                        }
+                    ],
+                    "lastfm": [
+                        {
+                            "url": "http://www.last.fm/music/P!nk"
+                        }
+                    ],
+                    "wiki": [
+                        {
+                            "url": "https://en.wikipedia.org/wiki/Pink_(singer)"
+                        }
+                    ],
+                    "facebook": [
+                        {
+                            "url": "https://www.facebook.com/pink"
+                        }
+                    ],
+                    "musicbrainz": [
+                        {
+                            "id": "f4d5cc07-3bc9-4836-9b15-88a08359bc63"
+                        }
+                    ],
+                    "homepage": [
+                        {
+                            "url": "http://www.pinkspage.com/"
+                        }
+                    ]
+                },
+                "images": [
+                    {
+                        "ratio": "3_2",
+                        "url": "https://s1.ticketm.net/dam/a/1dd/d5e86d93-5e1a-49d9-b530-70fefc0f21dd_877061_RETINA_PORTRAIT_3_2.jpg",
+                        "width": 640,
+                        "height": 427,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "4_3",
+                        "url": "https://s1.ticketm.net/dam/a/1dd/d5e86d93-5e1a-49d9-b530-70fefc0f21dd_877061_CUSTOM.jpg",
+                        "width": 305,
+                        "height": 225,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "16_9",
+                        "url": "https://s1.ticketm.net/dam/a/1dd/d5e86d93-5e1a-49d9-b530-70fefc0f21dd_877061_RETINA_PORTRAIT_16_9.jpg",
+                        "width": 640,
+                        "height": 360,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "3_2",
+                        "url": "https://s1.ticketm.net/dam/a/1dd/d5e86d93-5e1a-49d9-b530-70fefc0f21dd_877061_ARTIST_PAGE_3_2.jpg",
+                        "width": 305,
+                        "height": 203,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "16_9",
+                        "url": "https://s1.ticketm.net/dam/a/1dd/d5e86d93-5e1a-49d9-b530-70fefc0f21dd_877061_RETINA_LANDSCAPE_16_9.jpg",
+                        "width": 1136,
+                        "height": 639,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "3_2",
+                        "url": "https://s1.ticketm.net/dam/a/1dd/d5e86d93-5e1a-49d9-b530-70fefc0f21dd_877061_TABLET_LANDSCAPE_3_2.jpg",
+                        "width": 1024,
+                        "height": 683,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "16_9",
+                        "url": "https://s1.ticketm.net/dam/a/1dd/d5e86d93-5e1a-49d9-b530-70fefc0f21dd_877061_RECOMENDATION_16_9.jpg",
+                        "width": 100,
+                        "height": 56,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "16_9",
+                        "url": "https://s1.ticketm.net/dam/a/1dd/d5e86d93-5e1a-49d9-b530-70fefc0f21dd_877061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+                        "width": 2048,
+                        "height": 1152,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "16_9",
+                        "url": "https://s1.ticketm.net/dam/a/1dd/d5e86d93-5e1a-49d9-b530-70fefc0f21dd_877061_EVENT_DETAIL_PAGE_16_9.jpg",
+                        "width": 205,
+                        "height": 115,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "16_9",
+                        "url": "https://s1.ticketm.net/dam/a/1dd/d5e86d93-5e1a-49d9-b530-70fefc0f21dd_877061_TABLET_LANDSCAPE_16_9.jpg",
+                        "width": 1024,
+                        "height": 576,
+                        "fallback": false
+                    }
+                ],
+                "classifications": [
+                    {
+                        "primary": true,
+                        "segment": {
+                            "id": "KZFzniwnSyZfZ7v7nJ",
+                            "name": "Music"
+                        },
+                        "genre": {
+                            "id": "KnvZfZ7vAeA",
+                            "name": "Rock"
+                        },
+                        "subGenre": {
+                            "id": "KZazBEonSMnZfZ7v6F1",
+                            "name": "Pop"
+                        },
+                        "type": {
+                            "id": "KZAyXgnZfZ7v7la",
+                            "name": "Individual"
+                        },
+                        "subType": {
+                            "id": "KZFzBErXgnZfZ7vAd7",
+                            "name": "Musician"
+                        },
+                        "family": false
+                    }
+                ],
+                "upcomingEvents": {
+                    "_total": 24,
+                    "mfx-nl": 5,
+                    "ticketmaster": 17,
+                    "mfx-be": 1,
+                    "mfx-pl": 1
+                },
+                "_links": {
+                    "self": {
+                        "href": "/discovery/v2/attractions/K8vZ9171Jo7?locale=en-us"
+                    }
+                }
+            }
+        ]
+    }
+}

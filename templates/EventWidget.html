@@ -1,0 +1,53 @@
+
+
+<!DOCTYPE html>
+{% load bootstrap4 %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Event Widget for{{ title }}</title>
+{% bootstrap_css %}
+{% bootstrap_javascript jquery='full' %}
+    <style>
+        .subnail{
+            display: block;
+            position: fixed;
+            left: 33%;
+            top: 30px;
+            width: 640px;
+            height: 360px;
+
+        }
+        .subnail_img{
+            position: absolute;
+            z-index: -1;
+        }
+        .subnail_title{
+            position: relative;
+            top: 8%;
+            left: auto;
+            z-index: 0;
+            color: rgb(219, 245, 157);
+        }
+        .my-btn-position{
+            position: relative;
+            top: 250px;
+            left: 440px;
+        }
+    </style>
+</head>
+<body>
+<widgetContainer class="subnail shadow bg-white rounded">
+    <img class="subnail_img" src="{{img_url}}" alt="live photo here">
+    <h1 class="subnail_title">{{ event_name }}</h1>
+        <button type="submit" class="sm btn btn-danger my-btn-position" onclick="linkToTicketingWeb()">Buy ticket</button>
+    </widgetContainer>
+         <script>
+        function linkToTicketingWeb(){
+            console.log("load");
+            window.open('{{ event_url }}')
+
+        }
+    </script>
+</body>
+</html>
